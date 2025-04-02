@@ -19,12 +19,7 @@ This is a [mujoco-based](https://github.com/google-deepmind/mujoco) lightweight 
 <div align="center">
   <div style="position: relative; width: 600px;">
     <a href="https://x.com/box2ai/status/1907435562048565707">
-      <img alt="Bocon" src="media/bocon_video.png" width="600" style="height:auto;">
-      <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-        <svg width="80" height="80" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <circle cx="12" cy="12" r="10" fill="#fff" fill-opacity="0.7"/>
-          <path d="M10 8L16 12L10 16V8Z" fill="#000"/>
-        </svg>
+      <img alt="Bocon" src="media/bocon_video.png" width="600" >
       </div>
     </a>
   </div>
